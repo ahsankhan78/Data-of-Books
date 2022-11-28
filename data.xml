@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Books xmlns:poetry="http://www.w3.org/2001/XMLSchema-instance" xmlns:romantic="http//www.afgdsag.com" xmlns:islamic="http://www.agjjsgna.com" xmlns:historic="http//www.shgah.com">
+    <islamic:book id="1">
+        <Author>Umera Ahmed</Author>
+        <Title>Islamic</Title>
+        <Name>Pir-e-Kamil</Name>
+        <Price>Rs.1500</Price>
+</islamic:book>
+    <romantic:book id="2">
+        <Author>Farhat Ishtiaq</Author>
+        <Title>Romantic</Title>
+        <Name>Humsafar</Name>
+        <Price>Rs.1700</Price>
+</romantic:book>
+    <historic:book id="3">
+        <Author>Qurratulain Haider</Author>
+        <Title>Historical</Title>
+        <Name>Aag Kar Dariya</Name>
+        <Price>Rs.2000</Price>
+</historic:book>
+    <historic:book id="4">
+        <Author>Naseem Hijazi</Author>
+        <Title>Historical</Title>
+        <Name>Khaak or Khoon</Name>
+        <Price>Rs.1900</Price>
+</historic:book>
+    <romantic:book id="5">
+        <Author>Farhat Ishtiaq</Author>
+        <Title>Romantic</Title>
+        <Name>Mata-e-Jaan Hai tu</Name>
+        <Price>Rs.1399</Price>
+</romantic:book>
+    <islamic:book id="6">
+        <Author>Safiur Rehman Mubarakpuri</Author>
+        <Title>Islamic</Title>
+        <Name>Ar-Raheem Al-Makhtum</Name>
+        <Price>Rs.2000</Price>
+</islamic:book>
+    <poetry:book id="7">
+        <Author>Saadi Sherazi</Author>
+        <Title>Poetry</Title>
+        <Name>Kulliyat</Name>
+        <Price>Rs.1500</Price>
+</poetry:book>
+    <islamic:book id="8">
+        <Author>Pandit M.A Chamupati</Author>
+        <Title>Islamic</Title>
+        <Name>Rangila Rasul</Name>
+        <Price>Rs.1800</Price>
+</islamic:book>
+
+</Books>
